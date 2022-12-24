@@ -1,10 +1,11 @@
 ///*** this is my style ***///
 
-html, body { background: #f1f1f1; }
+html, body { background: white; }
 
 html { height: 100%; }
 
 body {
+  background: #f1f1f1;
   color: black;
   font-family: monospace;
   font-size: 14px;
@@ -13,13 +14,16 @@ body {
   overflow-wrap: break-word;
 }
 
-h2, h3, h4, h5, h6 { margin-top: 2rem; }
+h1, h2, h3, h4, h5, h6 { 
+  margin-top: 1rem; 
+  margin-left: 2.5rem;
+}
 
 p { 
-  padding-top: 50px;
+  padding-top: 20px;
   padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px; }
+  padding-bottom: 20px;
+  padding-left: 40px; }
 
 a { 
   color: black;
@@ -27,3 +31,4 @@ a {
   border-bottom-style: solid;
   border-bottom-color: #ffd600;
 } 
+
