@@ -13,11 +13,16 @@ body {
   overflow-wrap: break-word;
 }
 
-h2, h3, h4, h5, h6 { margin-top: 4rem; }
+h2, h3, h4, h5, h6 { margin-top: 2rem; }
 
-p { margin: 2rem 0; }
+p { 
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px; }
 
-a { color: black;
+a { 
+  color: black;
   text-decoration: none;
   border-bottom-style: solid;
   border-bottom-color: #ffd600;
