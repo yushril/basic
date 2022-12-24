@@ -1,4 +1,10 @@
 ///*** this is my style ***///
 
-
+div {
+    background-color: #f1f1f1;
+    padding-top: 45px;
+    padding-right: 30px;
+    padding-bottom: 45px;
+    padding-left: 80px;
+  }
 
