@@ -14,6 +14,17 @@ body {
   overflow-wrap: break-word;
 }
 
+h2, h3, h4, h5, h6 { margin-top: 3rem; }
+
+hr { margin: 2rem 0; }
+
+p { margin: 1rem 0; }
+
+a { color: black;
+  text-decoration: none;
+  border-bottom-style: solid;
+  border-bottom-color: #ffd600;
+} 
 
 div {
     background-color: #f1f1f1;
